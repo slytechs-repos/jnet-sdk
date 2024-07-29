@@ -1,3 +1,5 @@
+![Sonatype Nexus (Snapshots)](https://img.shields.io/nexus/s/com.slytechs.jnet/jnet-sdk-parent?server=https%3A%2F%2Fs01.oss.sonatype.org%2F)
+
 # jnet-sdk
 
 jnet-sdk is a Maven aggregator project that combines all jNet projects into a single build. This project simplifies the build process and dependency management for the jNet ecosystem.
@@ -50,11 +52,14 @@ jnet-sdk/
 
 ## Usage
 To use the jnet-sdk in your project, add the following dependency to your pom.xml:
+
+![Sonatype Nexus (Snapshots)](https://img.shields.io/nexus/s/com.slytechs.jnet/jnet-sdk-parent?server=https%3A%2F%2Fs01.oss.sonatype.org%2F)
+
 ```xml
 <dependency>
     <groupId>com.jnet</groupId>
     <artifactId>jnet-sdk</artifactId>
-    <version>1.0.0</version>
+    <version>X.Y.Z</version>
     <type>pom</type>
 </dependency>
 ```
