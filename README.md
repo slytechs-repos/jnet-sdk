@@ -72,6 +72,12 @@ Sly Technologies Free License
 See: http://www.slytechs.com/free-license-text
 
 ## Software Roadmap
+### Software Roadmap
+
+The **Sly Technologies Software Roadmap** provides a detailed overview of all our software modules available on GitHub, outlining their relationships and the latest versions. This section shows how the various modules interact with each other, highlighting dependencies and integration points across the system. Users can access the latest versions and corresponding release notes to understand improvements and updates as they become available.
+
+A secondary tab features the **release schedule**, offering a timeline for upcoming releases and planned features. This includes projected release dates and key features for future versions, giving users visibility into what’s next and when to expect enhancements or new functionality. The roadmap is continuously updated to reflect any adjustments in timelines or features, ensuring accurate and up-to-date information.
+
 [View our data spreadsheet](https://docs.google.com/spreadsheets/d/1hCep3Lk0s_BV1jQj48Jqu3aYTGsJ7ytsERZ8xKqF7LY/edit?usp=sharing)
 ![image](https://github.com/user-attachments/assets/33dc75fc-b46b-4aba-831f-5864b537a912)
 
