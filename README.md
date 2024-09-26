@@ -71,6 +71,11 @@ Sly Technologies Free License
 
 See: http://www.slytechs.com/free-license-text
 
+## Software Roadmap
+[View our data spreadsheet](https://docs.google.com/spreadsheets/d/1hCep3Lk0s_BV1jQj48Jqu3aYTGsJ7ytsERZ8xKqF7LY/edit?usp=sharing)
+![image](https://github.com/user-attachments/assets/33dc75fc-b46b-4aba-831f-5864b537a912)
+
+
 ## Contact
 Sly Technologies: sales@slytechs.com
 
